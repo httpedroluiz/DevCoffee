@@ -1,4 +1,4 @@
-## DevCoffe
+## ☕ DevCoffe
 
 ![preview](./.github/preview.gif)
 
